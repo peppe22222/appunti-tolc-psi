@@ -22,5 +22,5 @@ La miscela ottenuta sciogliendo sali o altre sostanze solubili in acqua (o, gene
 L’acqua è di fatto il mezzo in cui tutte le reazioni biologiche avvengono, ed è uno degli elementi chiave per la presenza della vita sulla Terra.
 
 ## Esercizio
-**Domanda**: Quale proprietà consente all'acqua di resistere ai cambiamenti di temperatura?
-👉 Risposta: Calore specifico elevato.
+> **Domanda**: Quale proprietà consente all'acqua di resistere ai cambiamenti di temperatura?
+> **Risposta**: Calore specifico elevato.

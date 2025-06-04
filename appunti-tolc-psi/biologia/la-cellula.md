@@ -8,5 +8,5 @@
 - Nucleo, mitocondri, ribosomi, reticolo endoplasmatico, apparato di Golgi
 
 ## Esercizio
-**Domanda**: Qual è l'organulo responsabile della produzione di energia?
-👉 Risposta: Mitocondrio
+> **Domanda**: Qual è l'organulo responsabile della produzione di energia?
+> **Risposta**: Mitocondrio

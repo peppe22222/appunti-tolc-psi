@@ -10,5 +10,5 @@ Valore che compare più spesso
 Valore centrale in un insieme ordinato
 
 ## Esercizio
-**Domanda**: Trovare la mediana di [3, 5, 7, 8, 9]
-👉 Risposta: 7
+> **Domanda**: Trovare la mediana di [3, 5, 7, 8, 9]
+> **Risposta**: 7
