@@ -39,9 +39,4 @@ Questa repository contiene tutti gli appunti per la preparazione al test TOLC-PS
 - Tesi e inferenze
 - Coerenza e coesione
 
-## ✅ Come usarli
-- Carica i file nella sezione Wiki della tua repository GitHub
-- Crea una pagina per ogni argomento copiando il contenuto dei file `.md`
-- Utilizza `Home.md` come pagina indice
-
 
