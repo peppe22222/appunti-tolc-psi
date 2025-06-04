@@ -46,4 +46,4 @@ Prepararmi al meglio per superare il **TOLC-PSI** e iniziare il percorso di **Ps
 
 ## 📎 Licenza
 
-Questo repository è distribuito con licenza [MIT](LICENSE), puoi usarlo, modificarlo e condividerlo liberamente.
+Questo repository è distribuito con licenza [MIT](../LICENSE), puoi usarlo, modificarlo e condividerlo liberamente.
