@@ -7,5 +7,6 @@ Le espressioni algebriche contengono lettere e numeri legati da operazioni matem
 `2x + 3 = 7` → si risolve trovando il valore di `x`.
 
 ## Esercizio TOLC
-**Domanda**: Risolvi `2x + 3 = 7`.
-👉 Risposta: `x = 2`
+> **Domanda**: Risolvi `2x + 3 = 7`.
+> 
+> **Risposta**: `x = 2`

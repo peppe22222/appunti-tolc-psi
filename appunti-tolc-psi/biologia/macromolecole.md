@@ -10,5 +10,5 @@ Polimeri di amminoacidi (es: enzimi)
 DNA e RNA
 
 ## Esercizio
-**Domanda**: Quale macromolecola è composta da nucleotidi?
-👉 Risposta: Acidi nucleici.
+> **Domanda**: Quale macromolecola è composta da nucleotidi?
+> **Risposta**: Acidi nucleici.

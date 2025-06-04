@@ -4,39 +4,45 @@ Questa repository contiene tutti gli appunti per la preparazione al test TOLC-PS
 
 ## 📂 Struttura dei contenuti
 
+### Indice rapido
+- [🔬 Biologia](#-biologia)
+- [📐 Matematica](#-matematica)
+- [🧠 Logica](#-logica)
+- [📖 Comprensione verbale](#-comprensione-verbale)
+
 ### 🔬 Biologia
-- Bioelementi
-- Proprietà dell’acqua
-- Molecole biologiche
-- Macromolecole
-- La cellula
-- Divisione cellulare
-- DNA e RNA
-- Sintesi proteica
-- Genetica di base
-- Ecologia di base
+- [Bioelementi](biologia/bioelementi.md)
+- [Proprietà dell’acqua](biologia/acqua.md)
+- [Molecole biologiche](biologia/molecole-biologiche.md)
+- [Macromolecole](biologia/macromolecole.md)
+- [La cellula](biologia/la-cellula.md)
+- [Divisione cellulare](biologia/divisione-cellulare.md)
+- [DNA e RNA](biologia/dna-rna.md)
+- [Sintesi proteica](biologia/sintesi-proteica.md)
+- [Genetica di base](biologia/genetica-base.md)
+- [Ecologia di base](biologia/ecologia.md)
 
 ### 📐 Matematica
-- Algebra
-- Geometria
-- Statistica
-- Insiemi
-- Equazioni e disequazioni
-- Funzioni
-- Esponenziali e logaritmi
-- Probabilità
+- [Algebra](matematica/algebra.md)
+- [Geometria](matematica/geometria.md)
+- [Statistica](matematica/statistica.md)
+- [Insiemi](matematica/insiemi.md)
+- [Equazioni e disequazioni](matematica/equazioni.md)
+- [Funzioni](matematica/funzioni.md)
+- [Esponenziali e logaritmi](matematica/esponenziali-logaritmi.md)
+- [Probabilità](matematica/probabilita.md)
 
 ### 🧠 Logica
-- Esercizi di logica
-- Serie numeriche
-- Deduzioni logiche
-- Relazioni tra insiemi
-- Puzzle logici
+- [Esercizi di logica](logica/esercizi-logica.md)
+- [Serie numeriche](logica/serie-numeriche.md)
+- [Deduzioni logiche](logica/deduzioni.md)
+- [Relazioni tra insiemi](logica/relazioni-insiemi.md)
+- [Puzzle logici](logica/puzzle-logici.md)
 
 ### 📖 Comprensione verbale
-- Strategie di lettura
-- Esercizi di lettura
-- Tesi e inferenze
-- Coerenza e coesione
+- [Strategie di lettura](comprensione-verbale/strategie-lettura.md)
+- [Esercizi di lettura](comprensione-verbale/esercizi-lettura.md)
+- [Tesi e inferenze](comprensione-verbale/tesi-inferenze.md)
+- [Coerenza e coesione](comprensione-verbale/coerenza-coesione.md)
 
 

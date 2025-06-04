@@ -7,5 +7,5 @@ Logica del contenuto
 Connessioni linguistiche (pronomi, connettivi)
 
 ## Esercizio
-**Domanda**: Quale parola collega meglio due frasi contrastanti?
-👉 Risposta: "Tuttavia"
+> **Domanda**: Quale parola collega meglio due frasi contrastanti?
+> **Risposta**: "Tuttavia"

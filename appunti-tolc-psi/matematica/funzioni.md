@@ -8,5 +8,5 @@ Relazione tra input (x) e output (f(x))
 - Immagine: valori assunti da f(x)
 
 ## Esercizio
-**Domanda**: Qual è il dominio di f(x) = 1/x?
-👉 Risposta: Tutti i reali tranne x = 0
+> **Domanda**: Qual è il dominio di f(x) = 1/x?
+> **Risposta**: Tutti i reali tranne x = 0

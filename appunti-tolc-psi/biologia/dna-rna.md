@@ -7,5 +7,5 @@ Doppia elica, contiene le informazioni genetiche
 Singolo filamento, coinvolto nella sintesi proteica
 
 ## Esercizio
-**Domanda**: Dove si trova il DNA nella cellula eucariote?
-👉 Risposta: Nel nucleo
+> **Domanda**: Dove si trova il DNA nella cellula eucariote?
+> **Risposta**: Nel nucleo

@@ -7,5 +7,5 @@ Riproduzione di cellule somatiche (2 cellule identiche)
 Produzione di gameti (4 cellule diverse, dimezzamento del patrimonio genetico)
 
 ## Esercizio
-**Domanda**: La meiosi genera cellule geneticamente identiche?
-👉 Risposta: No
+> **Domanda**: La meiosi genera cellule geneticamente identiche?
+> **Risposta**: No

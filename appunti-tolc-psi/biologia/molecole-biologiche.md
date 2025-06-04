@@ -13,5 +13,5 @@ Unità base delle proteine.
 Costituenti di DNA e RNA.
 
 ## Esercizio
-**Domanda**: Qual è la funzione principale dei glucidi?
-👉 Risposta: Fornire energia.
+> **Domanda**: Qual è la funzione principale dei glucidi?
+> **Risposta**: Fornire energia.
