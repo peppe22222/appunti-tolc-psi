@@ -1,4 +1,4 @@
-# 📘 Appunti per il TOLC-PSI – Giuseppe
+# 📘 Appunti per il TOLC-PSI 
 
 Questa repository contiene tutti gli appunti per la preparazione al test TOLC-PSI, organizzati per area tematica e pronti all'uso come Wiki su GitHub.
 
@@ -44,4 +44,4 @@ Questa repository contiene tutti gli appunti per la preparazione al test TOLC-PS
 - Crea una pagina per ogni argomento copiando il contenuto dei file `.md`
 - Utilizza `Home.md` come pagina indice
 
-📌 Preparati al meglio per il test di ammissione a Psicologia!
+
