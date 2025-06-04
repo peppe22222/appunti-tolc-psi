@@ -15,7 +15,6 @@ Unità base delle proteine, formate da un gruppo amminico e uno carbossilico
 legati a un carbonio centrale. Dal legame tra amminoacidi derivano i peptidi e
 le proteine complesse.
 
-![Struttura di un amminoacido](https://upload.wikimedia.org/wikipedia/commons/3/33/Generic_amino_acid_structure.svg)
 
 ## Nucleotidi
 Costituenti di DNA e RNA. Ogni nucleotide è composto da zucchero pentoso,
