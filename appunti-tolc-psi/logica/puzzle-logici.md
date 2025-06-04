@@ -5,3 +5,5 @@
 
 ## Esercizio
 Allenamento su problemi con più condizioni
+Per risolvere questi enigmi conviene schematizzare i dati e verificare le
+possibili combinazioni passo dopo passo.
